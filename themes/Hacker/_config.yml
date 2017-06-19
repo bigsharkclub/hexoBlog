@@ -1,0 +1,15 @@
+menu:
+  列表: /
+  分类: /categories
+  作者: /authors
+
+# duoshuo comment
+duoshuo: false
+duoshuo_name:
+
+# disqus comment
+disqus: false
+disqus_shortname:
+
+# google analytics
+googleTrackId:
